@@ -1,0 +1,3 @@
+
+Update private pod
+pod repo push sulatim THTools.podspec
